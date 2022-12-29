@@ -1,2 +1,3 @@
-# CS142
-Some random & fun coding projects from Intro to Comp Sci!
+# CS142 - Introduction to Computer Science C++
+
+Some fun and random programs from my first year in college! 
